@@ -1,0 +1,5 @@
+first_name="dipesh"
+last_name="shrestha"
+home_town="kathmandu,nepal"
+print "Hi i m ",first_name,last_name,"."
+print "i m from",home_town,"."
